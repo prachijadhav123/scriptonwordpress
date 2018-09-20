@@ -1,2 +1,3 @@
 # scriptonwordpress
 Here I have scrapped images, blog name and there details,post name. I store all scrapped image links into my mysql database...
+I imported that images containing table as csv file just to show you my scrapped data(see tableofstoredimages.csv)
